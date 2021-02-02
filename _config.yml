@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Peifeng Wang"
 title_separator          : "-"
 name                     : &name "Peifeng Wang"
-description              : &description "PhD Student at University of Southern California"
+description              : &description "Ph.D. Student at University of Southern California"
 url                      : https://wangpf3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wangpf3.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=3jfQnM4AAAAJ&hl=en"
-  email            :
+  email            : "peifengw@usc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
