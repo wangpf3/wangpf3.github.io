@@ -9,4 +9,4 @@ venue: "International Conference on Learning Representations"
 arxiv: https://arxiv.org/abs/2112.06318
 code: https://github.com/wangpf3/imagine-and-verbalize
 ---
-An Imagine-and-Verbalize pipeline, which learns to imagine a scene knowledge graph (SKG), and leverage the SKG as a constraint when generating a plausible scene description.
+An Imagine-and-Verbalize framework, which learns to imagine a scene knowledge graph (SKG), and leverage the SKG as a constraint when generating a plausible scene description.
