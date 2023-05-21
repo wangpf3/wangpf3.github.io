@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PINTO: Faithful Language Reasoning Using Prompt-Generated Rationales"
-date:   2013-01-23
+date:   2023-01-23
 image: /images/pinto.png
 categories: research
 authors: "<strong>Peifeng Wang</strong>, Aaron Chan, Filip Ilievski, Muhao Chen, Xiang Ren"
