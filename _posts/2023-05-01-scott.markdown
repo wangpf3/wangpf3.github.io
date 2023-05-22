@@ -2,7 +2,7 @@
 layout: post
 title:  "SCOTT: Self-Consistent Chain-of-Thought Distillation"
 date:   2023-05-01 22:21:59 +00:00
-image: /images/dashpoint.png
+image: images/dashpoint.png
 categories: research
 authors: "<strong>Peifeng Wang</strong>, Zhengyang Wang, Zheng Li, Yifan Gao, Bing Yin, Xiang Ren"
 venue: "ACL"
