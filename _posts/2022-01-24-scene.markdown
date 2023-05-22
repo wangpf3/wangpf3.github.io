@@ -2,7 +2,7 @@
 layout: post
 title:  "Contextualized Scene Imagination for Generative Commonsense Reasoning"
 date:   2022-01-24
-image: /images/pinto.png
+image: /images/skg.png
 categories: research
 authors: "<strong>Peifeng Wang</strong>, Jonathan Zamora, Junfeng Liu, Filip Ilievski, Muhao Chen, Xiang Ren"
 venue: "International Conference on Learning Representations"
