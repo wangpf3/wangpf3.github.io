@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Do Language Models Perform Generalizable Commonsense Inference?"
+date:   2021-06-22
+image: /images/mcsLM.png
+categories: research
+authors: "<strong>Peifeng Wang</strong>, Filip Ilievski, Muhao Chen, Xiang Ren"
+venue: "Annual Meeting of the Association for Computational Linguistics - Findings"
+arxiv: https://arxiv.org/abs/2106.11533
+---
+An analysis over the ability of LMs to perform generalizable commonsense inference, in terms of knowledge capacity, transferability, and induction
