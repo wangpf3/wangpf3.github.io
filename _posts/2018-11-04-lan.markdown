@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Logic Attention Based Neighborhood Aggregation for Inductive Knowledge Graph Embedding"
+date:   2018-11-04
+image: /images/lan.png
+categories: research
+authors: "<strong>Peifeng Wang</strong>, Jialong Han, Chenliang Li, Rong Pan"
+venue: "AAAI Conference on Artificial Intelligence"
+arxiv: https://arxiv.org/abs/1811.01399
+code: https://github.com/wangpf3/LAN
+---
+An inductive knowledge embedding model, Logic Attention Network, which aggregates entity neighbors with both rules- and network-based attention weights.
