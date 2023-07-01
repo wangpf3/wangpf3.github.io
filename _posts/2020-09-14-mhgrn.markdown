@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering"
+date:   2020-09-14
+image: /images/mhgrn.png
+categories: research
+authors: "Yanlin Feng, Xinyue Chen, Bill Yuchen Lin, <strong>Peifeng Wang</strong>, Jun Yan, Xiang Ren"
+venue: "Conference on Empirical Methods in Natural Language Processing"
+arxiv: https://arxiv.org/abs/2005.00646
+code: https://github.com/INK-USC/MHGRN
+---
+A novel knowledge-aware approach that equips pre-trained language models with a multi-hop graph relation network.
