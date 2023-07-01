@@ -7,5 +7,6 @@ categories: research
 authors: "<strong>Peifeng Wang</strong>, Filip Ilievski, Muhao Chen, Xiang Ren"
 venue: "Annual Meeting of the Association for Computational Linguistics - Findings"
 arxiv: https://arxiv.org/abs/2106.11533
+code: https://github.com/wangpf3/LM-for-CommonsenseInference
 ---
 An analysis over the ability of LMs to perform generalizable commonsense inference, in terms of knowledge capacity, transferability, and induction
