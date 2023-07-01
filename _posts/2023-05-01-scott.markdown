@@ -5,7 +5,7 @@ date:   2023-05-01 22:21:59 +00:00
 image: /images/scott.png
 categories: research
 authors: "<strong>Peifeng Wang</strong>, Zhengyang Wang, Zheng Li, Yifan Gao, Bing Yin, Xiang Ren"
-venue: "ACL"
+venue: "Annual Meeting of the Association for Computational Linguistics"
 arxiv: https://arxiv.org/abs/2305.01879
 ---
 A faithful knowledge distillation method that learns a small, self-consistent Chain-of-Thought model from a large teacher model.
