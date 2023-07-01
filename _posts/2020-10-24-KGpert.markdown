@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation"
+date:   2020-10-24
+image: /images/pert_framework.png.png
+categories: research
+authors: "Mrigank Raman, Siddhant Agarwal, <strong>Peifeng Wang</strong>, Aaron Chan, Hansen Wang, Sungchul Kim, Ryan Rossi, Handong Zhao, Nedim Lipka, Xiang Ren"
+venue: "International Conference on Learning Representations"
+arxiv: https://arxiv.org/abs/2010.12872
+code: https://github.com/INK-USC/deceive-KG-models
+---
+An analysis over the effects of strategically perturbed knowledge graphs (KGs) on KG-augmented model performance on downstream tasks.
