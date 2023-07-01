@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Logic Attention Based Neighborhood Aggregation for Inductive Knowledge Graph Embedding"
-date:   2018-11-04
+date:   2019-07-17
 image: /images/lan.png
 categories: research
 authors: "<strong>Peifeng Wang</strong>, Jialong Han, Chenliang Li, Rong Pan"
