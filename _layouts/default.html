@@ -79,9 +79,8 @@
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
               <br>
               {% if post.award %}
-              <p style="color:red;">
-              <b>{{post.award}}</b>
-              </p>
+              <b style="color:red;">{{post.award}}</b>
+              <br>
               {% endif %}
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /
