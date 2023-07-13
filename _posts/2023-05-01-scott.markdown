@@ -7,5 +7,6 @@ categories: research
 authors: "<strong>Peifeng Wang</strong>, Zhengyang Wang, Zheng Li, Yifan Gao, Bing Yin, Xiang Ren"
 venue: "Annual Meeting of the Association for Computational Linguistics"
 arxiv: https://arxiv.org/abs/2305.01879
+award: Outstanding Paper Award
 ---
 A faithful knowledge distillation method that learns a small, self-consistent Chain-of-Thought model from a large teacher model.
