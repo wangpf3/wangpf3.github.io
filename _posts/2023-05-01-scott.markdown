@@ -8,5 +8,7 @@ authors: "<strong>Peifeng Wang</strong>, Zhengyang Wang, Zheng Li, Yifan Gao, Bi
 venue: "Annual Meeting of the Association for Computational Linguistics"
 arxiv: https://arxiv.org/abs/2305.01879
 award: Outstanding Paper Award
+code: https://github.com/wangpf3/consistent-CoT-distillation.git
+blog: https://www.amazon.science/blog/teaching-language-models-to-reason-consistently
 ---
 A faithful knowledge distillation method that learns a small, self-consistent Chain-of-Thought model from a large teacher model.
