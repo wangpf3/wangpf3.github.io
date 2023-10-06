@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "DOMINO: A Dual-System for Multi-step Visual Language Reasoning"
+date:   2023-10-04
+image: /images/domino.png
+categories: research
+authors: "<strong>Peifeng Wang</strong>, Olga Golovneva, Armen Aghajanyan, Xiang Ren, Muhao Chen, Asli Celikyilmaz, Maryam Fazel-Zarandi"
+venue: "preprint"
+arxiv: https://arxiv.org/abs/2310.02804
+code: https://github.com/facebookresearch/dual-system-for-visual-language-reasoning
+---
+A dual-system for answering a complex question over a chart step-by-step with LLM and a vision module.
