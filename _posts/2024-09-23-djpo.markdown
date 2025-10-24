@@ -5,8 +5,8 @@ date:   2024-09-23
 image: /images/djpo.png
 categories: research
 authors: "<strong>Peifeng Wang</strong>, Austin Xu, Yilun Zhou, Caiming Xiong, Shafiq Joty"
-venue: "preprint"
+venue: "EMNLP 2025"
 arxiv: https://arxiv.org/abs/2409.14664
 blog: https://blog.salesforceairesearch.com/sfr-judge/
 ---
-A multifaceted generative judge model that generalizes cross various evaluation tasks
+A multifaceted generative judge model that generalizes across various evaluation tasks
