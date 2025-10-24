@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Evaluating judges as evaluators: The benchmark of llm-judges as test-time scaling evaluators"
+date:   2025-04-21
+image: /images/jetts.png
+categories: research
+authors: "Yilun Zhou, Austin Xu, <strong>Peifeng Wang</strong>, Caiming Xiong, Shafiq Joty"
+venue: "ICML"
+arxiv: https://arxiv.org/abs/2504.15253
+code: https://github.com/SalesforceAIResearch/jetts-benchmark
+---
+A benchmark that evaluates the performance of LLM-judges in reasoning and instruction following across various test-time scaling settings.
